@@ -1,5 +1,4 @@
 # Aid Management Application
-## Final Project of OOP244 of Winter 2018 from Seneca College
 
 This project is an application that manages the list of goods that need to be shipped to a disaster area.
 The client application tracks the quantity of items needed, tracks the quantity on hand, and stores information
