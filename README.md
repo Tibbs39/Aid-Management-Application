@@ -12,5 +12,3 @@ There are two types of goods that need to be shipped.
 In this assignment we used the iProduct interface to access the Product class. The Perishable class is a child of the Product class.
 
 TODO:: add documentation
-
-
