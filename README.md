@@ -10,5 +10,5 @@ There are two types of goods that need to be shipped.
 
 In this assignment we used the iProduct interface to access the Product class. The Perishable class is a child of the Product class.
 
-My intention with uploading this code on GitHub is merely to build a portfilo of my work.
-If you are another Seneca student please do not copy my work. 
+*My intention with uploading this code on GitHub is merely to build a portfilo of my work.
+If you are another Seneca student please do not copy my work.*
