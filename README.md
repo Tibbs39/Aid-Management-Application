@@ -8,6 +8,6 @@ There are two types of goods that need to be shipped.
   - Perishable products, items that would have an expiry date, such as some foods, and medicine
   - Non-perishable products, items which have no expiry date, such as blankets and tents.
 
-In this assignment we used the iProduct interface to access the Product class. The Perishable class is a child of the Product class.
+A polymorphic class was used to distinguish between perishable and non-perishable products. The classes were tracked in an inventory system and can be logged for future reference. 
 
 *My intention with uploading school assignments on GitHub is merely to build a portfolio of my work.* **_Please do not plagiarize._**
